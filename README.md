@@ -24,7 +24,7 @@ This project is part of my learning journey to better understand **Protocols and
 ## 📱 Screenshots
 | First Screen (Home) | Second Screen (Form) |
 |---------------------|----------------------|
-| ![First Screen](images/first_screen.png) | ![Second Screen](images/second_screen.png) |
+| ![First Screen](https://github.com/Roshan1408/IOS_Protocols_Delegates/blob/main/First_Screen.png?raw=true) | ![Second Screen](https://github.com/Roshan1408/IOS_Protocols_Delegates/blob/main/Second_Screen.png?raw=true) |
 
 ---
 
